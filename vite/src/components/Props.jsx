@@ -4,7 +4,7 @@ function Props({ username, dept }) {
     return (
         <>
             <div>
-                <h1>Hello {username}, your dept is {dept}</h1>
+                <h1>Hello {username}, your department is {dept}</h1>
             </div>
         </>
     )

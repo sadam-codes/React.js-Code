@@ -10,7 +10,7 @@ const GithubApi = () => {
                 setUser(data)
             }
             catch (error) {
-                console.log("Error fetching GitHub user:", error);
+                console.log("Error in fetching GitHub user:", error);
             }
         }
         fetchData()
