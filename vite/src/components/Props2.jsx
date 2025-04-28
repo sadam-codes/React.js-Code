@@ -4,19 +4,19 @@ import Props from "../components/Props"
 const Props2 = () => {
     const users = [
         {
-            username: "Sadam",
+            username: "Sadam Muneer",
             dept: "CS"
         },
         {
-            username: "Hasnain",
+            username: "Hasnain Asad",
             dept: "IT"
         },
         {
-            username: "Ali",
+            username: "Ali Hassan",
             dept: "DS"
         },
         {
-            username: "Aneeq",
+            username: "Aneeq Qureshi",
             dept: "CS"
         },
         {}
