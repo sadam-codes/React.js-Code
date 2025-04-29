@@ -13,8 +13,8 @@ const Counter = () => {
     }
     return (
         <>
-            <button className='bg-black text-white p-3 m-3 rounded-xl' onClick={addVal}>Add Value</button>
-            <button className='bg-black text-white p-3 m-3 rounded-xl' onClick={removeVal}>Remove Value</button>
+            <button className='bg-black text-white p-4 m-4 rounded-xl' onClick={addVal}>Add Value</button>
+            <button className='bg-black text-white p-4 m-4 rounded-xl' onClick={removeVal}>Remove Value</button>
             <p className='p-3 m-3 rounded-xl'>Value is {counter}</p>
         </>
     )
