@@ -5,7 +5,7 @@ const Props2 = () => {
     const users = [
         {
             username: "Sadam Muneer",
-            dept: "CS"
+            dept: "Computer Science"
         },
         {
             username: "Hasnain Asad",
@@ -13,11 +13,11 @@ const Props2 = () => {
         },
         {
             username: "Ali Hassan",
-            dept: "DS"
+            dept: "Data Sceince"
         },
         {
             username: "Aneeq Qureshi",
-            dept: "CS"
+            dept: "Computer Science"
         },
         {}
     ]
