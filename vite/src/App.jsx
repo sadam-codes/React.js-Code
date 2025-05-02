@@ -10,9 +10,9 @@ const App = () => {
     <>
       <Props2/>
       <Counter />
-      {/* <BgColor/> */}
       <GithubApi/>
       <GithubAxios/>
+      <BgColor/>
     </>
   )
 }
