@@ -1,8 +1,9 @@
 import React from 'react'
+import Header from './components/Header'
 function App() {
   return (
     <>
-      <h1 className="p-3 bg-black text-white">Hello</h1>
+     <Header/>
     </>
   )
 }
