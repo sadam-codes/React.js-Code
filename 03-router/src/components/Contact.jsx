@@ -2,8 +2,8 @@ import React from 'react'
 
 const Contact = () => {
     return (
-        <div>
-            <h1>Contact</h1>
+        <div className='container mx-auto'>
+            <h1>Contact page</h1>
         </div>
     )
 }
