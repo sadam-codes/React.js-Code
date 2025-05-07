@@ -1,5 +1,5 @@
 @import "tailwindcss";
 .btn-primary {
-    @apply p-4 m-2 rounded-xl;
+    @apply p-5 m-3 rounded-xl;
   }
   
