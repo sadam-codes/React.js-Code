@@ -19,6 +19,10 @@ const Props2 = () => {
             username: "Aneeq Qureshi",
             dept: "Computer Science"
         },
+        {
+            username: "Aashan",
+            dept: "IT"
+        },
         {}
     ]
     return (
